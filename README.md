@@ -1,1 +1,1 @@
-# lab_proj_Roni_Tal_Daniel
+# Lab project - "Linkedout" by Roni Weiss,Daniel Sinitsky and Tal Shalom
