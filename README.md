@@ -1,4 +1,8 @@
-# Lab project - "Linkedout" by Roni Weiss,Daniel Sinitsky and Tal Shalom
+# Lab project - "Linkedout" by Roni Weiss,Daniel Sinitsky and Tal Shalom 
+![disavow-cut-remove-link-ss-1920](https://github.com/michaelironi/lab_proj_Roni_Tal_Daniel/assets/81300916/50770af7-539f-4dfb-927d-d85321e13aa1)
+
+
+
 **Description:**
 
 This project aims to enhance the LinkedIn experience by developing an Our project endeavors to enhance the LinkedIn experience by implementing an AI
