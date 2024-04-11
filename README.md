@@ -6,6 +6,7 @@ driven suggestion addon for connection requests.
 The suggestion addon leverages both sender profile information and the content of their posts to provide personalized suggestions to users.
 By utilizing advanced language models and machine learning algorithms, the system aims to empower users to make informed decisions about connection requests, ultimately improving their networking efficiency and experience on the platform.
 
+![image](https://github.com/michaelironi/lab_proj_Roni_Tal_Daniel/assets/81300916/db711179-08e9-4849-b96f-1861c0171155)
 ## Features
 - Personalized connection request suggestions
 - AI-driven recommendation system
