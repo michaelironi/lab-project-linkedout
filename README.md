@@ -6,11 +6,6 @@ driven suggestion addon for connection requests.
 The suggestion addon leverages both sender profile information and the content of their posts to provide personalized suggestions to users.
 By utilizing advanced language models and machine learning algorithms, the system aims to empower users to make informed decisions about connection requests, ultimately improving their networking efficiency and experience on the platform.
 
-# LinkedIn Networking AI Recommendation System
-
-## Overview
-In response to the increasing clutter of irrelevant content on LinkedIn feeds, this project aims to develop an AI-driven suggestion addon for connection requests. The goal is to streamline professional networking experiences by providing personalized suggestions to users, leveraging AI and machine learning techniques.
-
 ## Features
 - Personalized connection request suggestions
 - AI-driven recommendation system
