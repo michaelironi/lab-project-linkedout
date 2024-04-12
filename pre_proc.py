@@ -34,6 +34,18 @@ def get_industry():
     df.to_csv('profiles_industries.csv', index=False)
 
 
+def apply_industry(row):
+    # Load the model
+    model = pickle.load(open('industry_classifier.pkl', 'rb'))
+
+    # apply the model on column 'position' and save the result in a new column 'industry'
+    # where position is not np.nan
+    row['industry'] = model.predict([row['position']])[0] if not pd.isnull(row['position']) else np.nan
+
+    return row
+
+
+
 def merge_scrapes():
     # Read the CSV file
     profiles = pd.read_csv('D:\Study Docs\Degree Material\Sem 7 proj\lab1\proj\post_pre process.csv')

@@ -20,7 +20,7 @@ By utilizing advanced language models and machine learning algorithms, the syste
 ## Data Collection and Integration
 - Utilized LinkedIn's people database
 - Extracted key features such as sender's current company, country of origin, number of followers, and educational background
-- Collected data on sender's posts through web scraping techniques, targeting approximately 1% of active users
+- Collected data on sender's posts through web scraping techniques, targeting approximately 1% of active users from the following www.bit.ly/4cVlU1a
 - Gathered approximately 100,000 post headers for analysis and model training
 - Integrated sender profile characteristics with post content attributes to develop a comprehensive understanding of user behavior and engagement
 

@@ -56,13 +56,3 @@ def predict_grade(request_info, user_info, model_path="regression_model.pkl"):
 
 
     return grade
-
-if __name__ == "__main__":
-    # Example usage
-    request_info = {"id": "1", "position": "devops", "followers": 100, "recommendations_count": 3,
-                    "current_company:name": "Google"}
-    user_info = {"id": "2", "position": "data engineer", "followers": 100, "recommendations_count": 5,
-                 "current_company:name": "Google"}
-
-    grade = predict_grade(request_info, user_info)
-    print(grade)

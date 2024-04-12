@@ -96,5 +96,5 @@ model.fit(X, y)
 
 # Save the model to a file
 import pickle
-with open("final_model.pkl", "wb") as file:
+with open("regression_model.pkl", "wb") as file:
     pickle.dump(model, file)
