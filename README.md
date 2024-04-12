@@ -31,7 +31,7 @@ By utilizing advanced language models and machine learning algorithms, the syste
 
 ## Getting Started
 To get started with the project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/linkedin-networking-ai.git`
+1. Clone the repository: `git clone https://github.com/michaelironi/lab-project-linkedout.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the project: `python main.py`
 
