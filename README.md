@@ -32,8 +32,7 @@ By utilizing advanced language models and machine learning algorithms, the syste
 ## Getting Started
 To get started with the project, follow these steps:
 1. Clone the repository: `git clone https://github.com/michaelironi/lab-project-linkedout.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the project: `python main.py`
+2. Run the project: `python main.py`
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your suggestions, bug fixes, or enhancements.
